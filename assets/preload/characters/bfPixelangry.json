@@ -98,21 +98,10 @@
 			"anim": "singDOWNmiss",
 			"indices": [],
 			"name": "BF DOWN MISS"
-		},
-		{
-			"offsets": [
-				0,
-				-13
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "hey",
-			"loop": false,
-			"name": "BF PEACE"
 		}
 	],
 	"no_antialiasing": true,
-	"image": "characters/bfPixel",
+	"image": "characters/bfPixelangry",
 	"position": [
 		0,
 		350
